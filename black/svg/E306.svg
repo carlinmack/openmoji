@@ -1,11 +1,22 @@
-<svg id="emoji" viewBox="0 0 72 72" xmlns="http://www.w3.org/2000/svg">
-  <g id="line">
-    <rect x="21.8271" y="30.656" rx="4.005" width="29.3048" height="10.5971" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
-    <line x1="31.8075" x2="31.8075" y1="33.396" y2="38.4981" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
-    <line x1="40.7099" x2="40.7099" y1="33.396" y2="38.4981" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
-    <circle cx="35.0351" cy="34.7092" r="0.8056"/>
-    <circle cx="37.7646" cy="34.7092" r="0.8056"/>
-    <circle cx="35.0351" cy="37.1999" r="0.8056"/>
-    <circle cx="37.7646" cy="37.1999" r="0.8056"/>
+<svg viewBox="0 0 72 72" xmlns="http://www.w3.org/2000/svg">
+  <path fill="#b3b3b3" d="M68 4v64H4V4h64m4-4H0v72h72V0z"/>
+  <path fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.1" d="M12.923 10.958h46.154A1.923 1.923 0 0161 12.881v46.154a1.923 1.923 0 01-1.923 1.923H12.923A1.923 1.923 0 0111 59.035V12.881a1.923 1.923 0 011.923-1.923z"/>
+  <rect x="16" y="4" rx="2.254" width="40" height="64" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.1"/>
+  <rect x="16" y="4" rx="2.254" width="40" height="64" transform="rotate(90 36 36)" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.1"/>
+  <circle cx="36" cy="36" r="29" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.1"/>
+  <g fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="6">
+    <rect x="21.827" y="30.656" rx="4.005" width="29.305" height="10.597"/>
+    <path d="M31.808 33.396v5.102m8.902-5.102v5.102"/>
+    <circle cx="35.035" cy="34.709" r="0.806"/>
+    <circle cx="37.765" cy="34.709" r="0.806"/>
+    <circle cx="35.035" cy="37.2" r="0.806"/>
+    <circle cx="37.765" cy="37.2" r="0.806"/>
   </g>
+  <rect x="21.827" y="30.663" rx="4.326" width="29.305" height="10.597" fill="#f4aa41"/>
+  <rect x="21.827" y="30.656" rx="4.005" width="29.305" height="10.597" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+  <path stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M31.808 33.396v5.102m8.902-5.102v5.102"/>
+  <circle cx="35.035" cy="34.709" r="0.806"/>
+  <circle cx="37.765" cy="34.709" r="0.806"/>
+  <circle cx="35.035" cy="37.2" r="0.806"/>
+  <circle cx="37.765" cy="37.2" r="0.806"/>
 </svg>

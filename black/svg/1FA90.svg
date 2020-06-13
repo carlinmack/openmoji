@@ -1,6 +1,17 @@
-<svg id="emoji" viewBox="0 0 72 72" xmlns="http://www.w3.org/2000/svg">
-  <g id="line">
-    <circle cx="35.5" cy="35.9583" r="21.5384" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
-    <path fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M48.2147,14.6573c3.57-1.1173,6.428-1.0032,8.03.5984,4.2057,4.2056-1.8456,17.0756-13.5159,28.7459s-24.54,17.7216-28.746,13.516c-1.8391-1.8391-1.7168-5.3351-.0209-9.6632"/>
+<svg viewBox="0 0 72 72" xmlns="http://www.w3.org/2000/svg">
+  <path fill="#b3b3b3" d="M68 4.407v64H4v-64h64m4-4H0v72h72v-72z"/>
+  <path fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.1" d="M12.923 11.365h46.154A1.923 1.923 0 0161 13.288v46.154a1.923 1.923 0 01-1.923 1.923H12.923A1.923 1.923 0 0111 59.442V13.288a1.923 1.923 0 011.923-1.923z"/>
+  <rect x="16" y="4.407" rx="2.254" width="40" height="64" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.1"/>
+  <rect x="16" y="4.407" rx="2.254" width="40" height="64" transform="rotate(90 36 36.407)" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.1"/>
+  <circle cx="36" cy="36.407" r="29" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.1"/>
+  <g fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="6">
+    <circle cx="35.5" cy="35.958" r="21.538"/>
+    <path d="M48.215 14.657c3.57-1.117 6.428-1.003 8.03.599 4.205 4.205-1.846 17.075-13.516 28.746s-24.54 17.721-28.746 13.516c-1.84-1.84-1.717-5.336-.021-9.664"/>
+  </g>
+  <circle cx="35.5" cy="35.958" r="21.538" fill="#ea5a47"/>
+  <path fill="#d22f27" d="M39.925 15.078a21.535 21.535 0 01-16.643 38.808 21.535 21.535 0 1016.643-38.808z"/>
+  <g fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2">
+    <circle cx="35.5" cy="35.958" r="21.538"/>
+    <path d="M48.215 14.657c3.57-1.117 6.428-1.003 8.03.599 4.205 4.205-1.846 17.075-13.516 28.746s-24.54 17.721-28.746 13.516c-1.84-1.84-1.717-5.336-.021-9.664"/>
   </g>
 </svg>

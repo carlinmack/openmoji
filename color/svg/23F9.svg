@@ -1,9 +1,9 @@
-<svg id="emoji" viewBox="0 0 72 72" xmlns="http://www.w3.org/2000/svg">
-  <g id="color"/>
-  <g id="hair"/>
-  <g id="skin"/>
-  <g id="skin-shadow"/>
-  <g id="line">
-    <path fill="#000000" stroke="none" d="M49.2614,18C51.8743,18,54,20.1257,54,22.7386v26.5229C54,51.8743,51.8743,54,49.2614,54H22.7386 C20.1257,54,18,51.8743,18,49.2614V22.7386C18,20.1257,20.1257,18,22.7386,18H49.2614 M49.2614,16H22.7386 C19.017,16,16,19.017,16,22.7386v26.5229C16,52.983,19.017,56,22.7386,56h26.5229C52.983,56,56,52.983,56,49.2614V22.7386 C56,19.017,52.983,16,49.2614,16L49.2614,16z"/>
-  </g>
+<svg viewBox="0 0 72 72" xmlns="http://www.w3.org/2000/svg">
+  <path fill="#b3b3b3" d="M68 4v64H4V4h64m4-4H0v72h72V0z"/>
+  <path fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.1" d="M12.923 10.958h46.154A1.923 1.923 0 0161 12.881v46.154a1.923 1.923 0 01-1.923 1.923H12.923A1.923 1.923 0 0111 59.035V12.881a1.923 1.923 0 011.923-1.923z"/>
+  <rect x="16" y="4" rx="2.254" width="40" height="64" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.1"/>
+  <rect x="16" y="4" rx="2.254" width="40" height="64" transform="rotate(90 36 36)" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.1"/>
+  <circle cx="36" cy="36" r="29" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.1"/>
+  <path fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="6" d="M49.261 18A4.744 4.744 0 0154 22.739v26.523A4.744 4.744 0 0149.261 54H22.74A4.744 4.744 0 0118 49.261V22.74A4.744 4.744 0 0122.739 18H49.26m0-2H22.74A6.739 6.739 0 0016 22.739v26.523A6.739 6.739 0 0022.739 56h26.523A6.739 6.739 0 0056 49.261V22.74A6.739 6.739 0 0049.261 16h0z"/>
+  <path d="M49.261 18A4.744 4.744 0 0154 22.739v26.523A4.744 4.744 0 0149.261 54H22.74A4.744 4.744 0 0118 49.261V22.74A4.744 4.744 0 0122.739 18H49.26m0-2H22.74A6.739 6.739 0 0016 22.739v26.523A6.739 6.739 0 0022.739 56h26.523A6.739 6.739 0 0056 49.261V22.74A6.739 6.739 0 0049.261 16z"/>
 </svg>

@@ -1,9 +1,25 @@
-<svg id="emoji" viewBox="0 0 72 72" xmlns="http://www.w3.org/2000/svg">
-  <g id="line">
-    <path fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.28" d="M34.3181,19.3794v9.4444"/>
-    <circle cx="34.3187" cy="10.4116" r="3" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width="2"/>
-    <path fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M38.4944,21.2212,40.0818,52.97c.046.919-.48,1.671-1.17,1.671a1.7343,1.7343,0,0,1-1.4446-1.66L35.3438,34.574c-.1078-.9132-.5673-1.66-1.0268-1.66s-.9216.7469-1.0268,1.66L31.1688,52.9807a1.7351,1.7351,0,0,1-1.4445,1.66c-.6893,0-1.2157-.752-1.17-1.671L30.142,21.2212"/>
-    <path fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M26.6619,36.26l.6617-15.8743a4.4057,4.4057,0,0,1,4.3512-4.1775h5.0129a4.4064,4.4064,0,0,1,4.3513,4.1775l.9365,16.1935"/>
-    <ellipse cx="34.3192" cy="59.4107" rx="8.2561" ry="1.2942" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.56"/>
+<svg viewBox="0 0 72 72" xmlns="http://www.w3.org/2000/svg">
+  <path fill="#b3b3b3" d="M0 68.635h68.636V0H.001zM3.815 3.813h61.01v61.01H3.814z"/>
+  <path fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.1" d="M56.317 58.11H12.32a1.833 1.833 0 01-1.833-1.833V12.28a1.833 1.833 0 011.833-1.834h43.997a1.833 1.833 0 011.833 1.834v43.996a1.833 1.833 0 01-1.833 1.834z"/>
+  <path fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.1" d="M51.235 64.822H17.402a2.148 2.148 0 01-2.149-2.148V5.962a2.148 2.148 0 012.149-2.149h33.833a2.148 2.148 0 012.149 2.149v56.712a2.148 2.148 0 01-2.149 2.148z"/>
+  <path fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.1" d="M3.814 51.234V17.401a2.148 2.148 0 012.148-2.149h56.713a2.148 2.148 0 012.148 2.149v33.834a2.148 2.148 0 01-2.148 2.148H5.962a2.148 2.148 0 01-2.15-2.149z"/>
+  <circle cx="34.319" cy="34.318" r="27.645" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.1"/>
+  <g fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="6">
+    <path d="M34.318 19.38v9.444"/>
+    <circle cx="34.319" cy="10.412" r="3"/>
+    <path d="M38.494 21.221l1.588 31.749c.046.919-.48 1.671-1.17 1.671a1.734 1.734 0 01-1.445-1.66l-2.123-18.407c-.108-.913-.567-1.66-1.027-1.66s-.922.747-1.027 1.66l-2.12 18.407a1.735 1.735 0 01-1.445 1.66c-.689 0-1.215-.752-1.17-1.671l1.588-31.749"/>
+    <path d="M26.662 36.26l.662-15.874a4.406 4.406 0 014.35-4.178h5.014a4.406 4.406 0 014.351 4.178l.936 16.193"/>
+    <ellipse cx="34.319" cy="59.411" rx="8.256" ry="1.294"/>
+  </g>
+  <g fill="#fcea2b">
+    <path d="M27.074 36.74l2.451-1.75-.596 18.493a1.032 1.032 0 00.209.734.198.198 0 00.127.075c.179 0 1.803-.21 1.869-.793l2.045-18.923c.041-.352 1.421-1.694 1.421-1.694a7.212 7.212 0 011.116 1.641l2.124 18.828c.066.583.436.94.615.94.05-.008 1.806-.305 1.78-.568l-1.57-18.758 3.03 2.122a4.591 4.591 0 01.108-.708l-.825-16.724c-.097-1.921-2.732-2.954-4.612-2.972h-5.012a3.593 3.593 0 00-3.517 3.451l-.662 16.241a.84.84 0 01-.1.365z"/>
+    <circle cx="33.927" cy="10.412" r="2.481"/>
+  </g>
+  <g stroke="#000">
+    <path fill="none" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.28" d="M34.318 19.38v9.444"/>
+    <circle cx="34.319" cy="10.412" r="3" fill="none" stroke-miterlimit="10" stroke-width="2"/>
+    <path fill="none" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M38.494 21.221l1.588 31.749c.046.919-.48 1.671-1.17 1.671a1.734 1.734 0 01-1.445-1.66l-2.123-18.407c-.108-.913-.567-1.66-1.027-1.66s-.922.747-1.027 1.66l-2.12 18.407a1.735 1.735 0 01-1.445 1.66c-.689 0-1.215-.752-1.17-1.671l1.588-31.749"/>
+    <path fill="none" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M26.662 36.26l.662-15.874a4.406 4.406 0 014.35-4.178h5.014a4.406 4.406 0 014.351 4.178l.936 16.193"/>
+    <ellipse cx="34.319" cy="59.411" rx="8.256" ry="1.294" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.56"/>
   </g>
 </svg>

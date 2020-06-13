@@ -1,20 +1,23 @@
-<svg id="emoji" viewBox="0 0 72 72" xmlns="http://www.w3.org/2000/svg">
-  <g id="color">
-    <polyline fill="#EA5A47" stroke="none" points="17,55 17,52 24,52 24,55"/>
-    <circle cx="36" cy="17" r="10" fill="#EA5A47" stroke="none"/>
-    <path fill="#3F3F3F" stroke="none" d="M27,55c0-3.866,4.0294-7,9-7s9,3.134,9,7"/>
-    <rect x="33" y="27" width="6" height="21" fill="#9B9B9A" stroke="#9B9B9A" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2"/>
-    <rect x="14" y="55" width="44" height="10" fill="#9B9B9A" stroke="none" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2"/>
-    <polygon fill="#D22F27" stroke="none" points="41,8 34,27 40,26 45,21 46,15"/>
+<svg viewBox="0 0 72 72" xmlns="http://www.w3.org/2000/svg">
+  <path fill="#b3b3b3" d="M68 4v64H4V4h64m4-4H0v72h72V0z"/>
+  <path fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.1" d="M12.923 10.958h46.154A1.923 1.923 0 0161 12.881v46.154a1.923 1.923 0 01-1.923 1.923H12.923A1.923 1.923 0 0111 59.035V12.881a1.923 1.923 0 011.923-1.923z"/>
+  <rect x="16" y="4" rx="2.254" width="40" height="64" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.1"/>
+  <rect x="16" y="4" rx="2.254" width="40" height="64" transform="rotate(90 36 36)" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.1"/>
+  <circle cx="36" cy="36" r="29" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.1"/>
+  <g fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="6">
+    <path d="M14 55h44v10H14zm13 0c0-3.866 4.03-7 9-7s9 3.134 9 7m-28 0v-3h7v3m15-10.297V27h-6v17.705"/>
+    <circle cx="36" cy="17" r="10"/>
   </g>
-  <g id="hair"/>
-  <g id="skin"/>
-  <g id="skin-shadow"/>
-  <g id="line">
-    <rect x="14" y="55" width="44" height="10" fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2"/>
-    <path fill="none" stroke="#000000" stroke-miterlimit="10" stroke-width="2" d="M27,55c0-3.866,4.0294-7,9-7s9,3.134,9,7"/>
-    <polyline fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2" points="17,55 17,52 24,52 24,55"/>
-    <polyline fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2" points="39,44.703 39,44 39,27 33,27 33,44.7053"/>
-    <circle cx="36" cy="17" r="10" fill="none" stroke="#000000" stroke-miterlimit="10" stroke-width="2"/>
+  <path fill="#EA5A47" d="M17 55v-3h7v3"/>
+  <circle cx="36" cy="17" r="10" fill="#EA5A47"/>
+  <path fill="#3F3F3F" d="M27 55c0-3.866 4.03-7 9-7s9 3.134 9 7"/>
+  <path fill="#9B9B9A" stroke="#9B9B9A" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2" d="M33 27h6v21h-6z"/>
+  <path fill="#9B9B9A" d="M14 55h44v10H14z"/>
+  <path fill="#D22F27" d="M41 8l-7 19 6-1 5-5 1-6z"/>
+  <g fill="none" stroke="#000" stroke-miterlimit="10" stroke-width="2">
+    <path stroke-linecap="round" stroke-linejoin="round" d="M14 55h44v10H14z"/>
+    <path d="M27 55c0-3.866 4.03-7 9-7s9 3.134 9 7"/>
+    <path stroke-linecap="round" stroke-linejoin="round" d="M17 55v-3h7v3m15-10.297V27h-6v17.705"/>
+    <circle cx="36" cy="17" r="10"/>
   </g>
 </svg>

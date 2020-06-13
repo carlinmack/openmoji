@@ -1,10 +1,16 @@
-<svg id="emoji" viewBox="0 0 72 72" xmlns="http://www.w3.org/2000/svg">
-  <g id="line">
-    <circle cx="36" cy="36" r="23" fill="none" stroke="#000000" stroke-miterlimit="10" stroke-width="2"/>
-    <line x1="27" x2="45" y1="46" y2="46" fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2"/>
-    <path fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2" d="M23,33.0774c0.4132,0.344,2.2456,1.7915,4.9091,1.6364c2.1608-0.1259,3.61-1.2333,4.0909-1.6364"/>
-    <path fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2" d="M41,33.0774c0.4132,0.344,2.2456,1.7915,4.9091,1.6364c2.1608-0.1259,3.61-1.2333,4.0909-1.6364"/>
-    <path fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2" d="M19.9385,27.2501c0.4872,0.2275,2.6277,1.1608,5.1639,0.3327c2.0576-0.6718,3.1771-2.1117,3.5396-2.6239"/>
-    <path fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2" d="M52.642,27.2501c-0.4872,0.2275-2.6277,1.1608-5.1639,0.3327c-2.0576-0.6718-3.1771-2.1117-3.5396-2.6239"/>
+<svg viewBox="0 0 72 72" xmlns="http://www.w3.org/2000/svg">
+  <path fill="#B3B3B3" d="M68 4v64H4V4h64m4-4H0v72h72V0z"/>
+  <path fill="none" stroke="#00A5FF" stroke-miterlimit="10" stroke-width="0.1" d="M12.923 10.958h46.154c1.062 0 1.923.861 1.923 1.923v46.154a1.923 1.923 0 01-1.923 1.923H12.923A1.923 1.923 0 0111 59.035h0V12.881c0-1.062.861-1.923 1.923-1.923h0z"/>
+  <path fill="none" stroke="#00A5FF" stroke-miterlimit="10" stroke-width="0.1" d="M18.254 4h35.492A2.254 2.254 0 0156 6.254v59.492A2.254 2.254 0 0153.746 68H18.254A2.254 2.254 0 0116 65.746V6.254A2.254 2.254 0 0118.254 4z"/>
+  <path fill="none" stroke="#00A5FF" stroke-miterlimit="10" stroke-width="0.1" d="M68 18.254v35.492A2.254 2.254 0 0165.746 56H6.254A2.254 2.254 0 014 53.746V18.254A2.254 2.254 0 016.254 16h59.492A2.254 2.254 0 0168 18.254z"/>
+  <circle cx="36" cy="36" r="29" fill="none" stroke="#00A5FF" stroke-miterlimit="10" stroke-width="0.1"/>
+  <g fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="6">
+    <circle cx="36" cy="36" r="23"/>
+    <path d="M27 46h18M23 33.077c.413.344 2.246 1.792 4.91 1.637 2.16-.126 3.61-1.233 4.09-1.637m9 0c.413.344 2.246 1.792 4.91 1.637 2.16-.126 3.61-1.233 4.09-1.637M19.939 27.25c.487.228 2.627 1.16 5.163.333 2.058-.672 3.178-2.112 3.54-2.624m24 2.291c-.487.228-2.628 1.16-5.164.333-2.057-.672-3.177-2.112-3.54-2.624"/>
+  </g>
+  <path fill="#FCEA2B" d="M36 13c-12.682 0-23 10.318-23 23s10.318 23 23 23 23-10.318 23-23-10.318-23-23-23z"/>
+  <g fill="none" stroke="#000" stroke-miterlimit="10" stroke-width="2">
+    <circle cx="36" cy="36" r="23"/>
+    <path stroke-linecap="round" stroke-linejoin="round" d="M27 46h18M23 33.077c.413.344 2.246 1.792 4.91 1.637 2.16-.126 3.61-1.233 4.09-1.637m9 0c.413.344 2.246 1.792 4.91 1.637 2.16-.126 3.61-1.233 4.09-1.637M19.939 27.25c.487.228 2.627 1.16 5.163.333 2.058-.672 3.178-2.112 3.54-2.624m24 2.291c-.487.228-2.628 1.16-5.164.333-2.057-.672-3.177-2.112-3.54-2.624"/>
   </g>
 </svg>

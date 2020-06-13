@@ -1,14 +1,18 @@
-<svg id="emoji" viewBox="0 0 72 72" xmlns="http://www.w3.org/2000/svg">
-  <g id="line">
-    <polygon fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2" points="17.0652,56.0808 17.0652,16.0559 55.8444,16.081"/>
-    <polygon fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2" points="22.5418,34.3726 22.5418,21.3336 35.175,21.3418"/>
-    <line x1="23.8548" x2="22.5657" y1="43.2891" y2="42.0462" fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2"/>
-    <line x1="29.4076" x2="28.1185" y1="37.53" y2="36.2872" fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2"/>
-    <line x1="32.1839" x2="30.8949" y1="34.6506" y2="33.4077" fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2"/>
-    <line x1="34.9604" x2="33.6713" y1="31.7711" y2="30.5281" fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2"/>
-    <line x1="37.7367" x2="36.4477" y1="28.8915" y2="27.6486" fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2"/>
-    <line x1="43.2896" x2="42.0005" y1="23.1325" y2="21.8896" fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2"/>
-    <line x1="26.7191" x2="24.5194" y1="40.4944" y2="38.3734" fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2"/>
-    <line x1="40.6012" x2="38.4013" y1="26.0969" y2="23.9758" fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2"/>
+<svg viewBox="0 0 72 72" xmlns="http://www.w3.org/2000/svg">
+  <path fill="#b3b3b3" d="M68 4v64H4V4h64m4-4H0v72h72V0z"/>
+  <path fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.1" d="M12.923 10.958h46.154A1.923 1.923 0 0161 12.881v46.154a1.923 1.923 0 01-1.923 1.923H12.923A1.923 1.923 0 0111 59.035V12.881a1.923 1.923 0 011.923-1.923z"/>
+  <rect x="16" y="4" rx="2.254" width="40" height="64" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.1"/>
+  <rect x="16" y="4" rx="2.254" width="40" height="64" transform="rotate(90 36 36)" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.1"/>
+  <circle cx="36" cy="36" r="29" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.1"/>
+  <g fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="6">
+    <path d="M17.065 56.08V16.057l38.78.025z"/>
+    <path d="M22.542 34.373v-13.04l12.633.009zm1.313 8.916l-1.289-1.243m6.842-4.516l-1.289-1.243m4.065-1.636l-1.289-1.243m4.065-1.637l-1.289-1.243m4.066-1.636l-1.289-1.243m6.842-4.516l-1.289-1.243M26.719 40.494l-2.2-2.121m16.082-12.276l-2.2-2.121"/>
+  </g>
+  <path fill="#D0CFCE" d="M17.16 15.955l.252 39.437L56.03 15.955H17.16zm5.25 16.436V22.163c0-.208.087-.408.242-.555a.833.833 0 01.584-.23l10.425.007a.87.87 0 01.24.034c.23.067.422.227.519.445a.753.753 0 01-.168.852l-10.424 10.22a.857.857 0 01-.903.18.802.802 0 01-.478-.494.747.747 0 01-.037-.231z"/>
+  <path fill="#9B9B9A" d="M55.561 16.215l-6.776.167-31.537 32.43-.074 6.946z"/>
+  <path fill="#d0cfce" d="M23.855 43.289l-1.289-1.243m6.842-4.516l-1.289-1.243m4.065-1.636l-1.289-1.243m4.065-1.637l-1.289-1.243m4.066-1.636l-1.289-1.243m6.842-4.516l-1.289-1.243M26.719 40.494l-2.2-2.121m16.082-12.276l-2.2-2.121"/>
+  <g fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2">
+    <path d="M17.065 56.08V16.057l38.78.025z"/>
+    <path d="M22.542 34.373v-13.04l12.633.009zm1.313 8.916l-1.289-1.243m6.842-4.516l-1.289-1.243m4.065-1.636l-1.289-1.243m4.065-1.637l-1.289-1.243m4.066-1.636l-1.289-1.243m6.842-4.516l-1.289-1.243M26.719 40.494l-2.2-2.121m16.082-12.276l-2.2-2.121"/>
   </g>
 </svg>

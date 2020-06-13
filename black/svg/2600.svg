@@ -1,6 +1,16 @@
-<svg id="emoji" viewBox="0 0 72 72" xmlns="http://www.w3.org/2000/svg">
-  <g id="line">
-    <circle cx="36" cy="35.95" r="19.8276" fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2"/>
-    <polygon fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2" points="66,36 55.3235,41.1816 61.9819,51.0063 50.1418,50.1424 51.0056,61.9823 41.1813,55.3236 36,66 30.8184,55.3235 20.9937,61.9819 21.8576,50.1418 10.0177,51.0056 16.6764,41.1813 6,36 16.6765,30.8184 10.0181,20.9937 21.8582,21.8576 20.9944,10.0177 30.8187,16.6764 36,6 41.1816,16.6765 51.0063,10.0181 50.1424,21.8582 61.9823,20.9944 55.3236,30.8187"/>
+<svg viewBox="0 0 72 72" xmlns="http://www.w3.org/2000/svg">
+  <path fill="#b3b3b3" d="M68 4v64H4V4h64m4-4H0v72h72V0z"/>
+  <path fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.1" d="M12.923 10.958h46.154A1.923 1.923 0 0161 12.881v46.154a1.923 1.923 0 01-1.923 1.923H12.923A1.923 1.923 0 0111 59.035V12.881a1.923 1.923 0 011.923-1.923z"/>
+  <rect x="16" y="4" rx="2.254" width="40" height="64" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.1"/>
+  <rect x="16" y="4" rx="2.254" width="40" height="64" transform="rotate(90 36 36)" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.1"/>
+  <circle cx="36" cy="36" r="29" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.1"/>
+  <g fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="6">
+    <circle cx="36" cy="35.95" r="19.828"/>
+    <path d="M66 36l-10.676 5.182 6.658 9.824-11.84-.864.864 11.84-9.825-6.658L36 66l-5.182-10.676-9.824 6.658.864-11.84-11.84.864 6.658-9.825L6 36l10.677-5.182-6.659-9.824 11.84.864-.864-11.84 9.825 6.658L36 6l5.182 10.677 9.824-6.659-.864 11.84 11.84-.864-6.658 9.825z"/>
+  </g>
+  <path fill="#FCEA2B" d="M66 36l-10.676 5.182 6.658 9.824-11.84-.864.864 11.84-9.825-6.658L36 66l-5.182-10.676-9.824 6.658.864-11.84-11.84.864 6.658-9.825L6 36l10.677-5.182-6.659-9.824 11.84.864-.864-11.84 9.825 6.658L36 6l5.182 10.677 9.824-6.659-.864 11.84 11.84-.864-6.658 9.825z"/>
+  <g fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2">
+    <circle cx="36" cy="35.95" r="19.828"/>
+    <path d="M66 36l-10.676 5.182 6.658 9.824-11.84-.864.864 11.84-9.825-6.658L36 66l-5.182-10.676-9.824 6.658.864-11.84-11.84.864 6.658-9.825L6 36l10.677-5.182-6.659-9.824 11.84.864-.864-11.84 9.825 6.658L36 6l5.182 10.677 9.824-6.659-.864 11.84 11.84-.864-6.658 9.825z"/>
   </g>
 </svg>

@@ -1,11 +1,10 @@
-<svg id="emoji" viewBox="0 0 72 72" xmlns="http://www.w3.org/2000/svg">
-  <g id="color">
-    <path fill="#FFFFFF" stroke="none" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2" d="M54.8808,49.1283C57.4746,45.405,59,40.8818,59,36c0-12.7026-10.2974-23-23-23S13,23.2974,13,36c0,12.7025,10.2974,23,23,23 c3.7581,0,7.3021-0.9071,10.4348-2.5054l4.8138,2.0528l5.7283,2.4428l-1.0836-6.1324L54.8808,49.1283z"/>
-  </g>
-  <g id="hair"/>
-  <g id="skin"/>
-  <g id="skin-shadow"/>
-  <g id="line">
-    <path fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2" d="M54.8808,49.1283C57.4746,45.405,59,40.8818,59,36c0-12.7026-10.2974-23-23-23S13,23.2974,13,36c0,12.7025,10.2974,23,23,23 c3.7581,0,7.3021-0.9071,10.4348-2.5054l4.8138,2.0528l5.7283,2.4428l-1.0836-6.1324L54.8808,49.1283z"/>
-  </g>
+<svg viewBox="0 0 72 72" xmlns="http://www.w3.org/2000/svg">
+  <path fill="#b3b3b3" d="M68 4v64H4V4h64m4-4H0v72h72V0z"/>
+  <path fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.1" d="M12.923 10.958h46.154A1.923 1.923 0 0161 12.881v46.154a1.923 1.923 0 01-1.923 1.923H12.923A1.923 1.923 0 0111 59.035V12.881a1.923 1.923 0 011.923-1.923z"/>
+  <rect x="16" y="4" rx="2.254" width="40" height="64" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.1"/>
+  <rect x="16" y="4" rx="2.254" width="40" height="64" transform="rotate(90 36 36)" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.1"/>
+  <circle cx="36" cy="36" r="29" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.1"/>
+  <path fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="6" d="M54.88 49.128A22.887 22.887 0 0059 36c0-12.703-10.297-23-23-23S13 23.297 13 36s10.297 23 23 23c3.758 0 7.302-.907 10.435-2.505l4.814 2.052 5.728 2.443-1.084-6.132-1.012-5.73z"/>
+  <path fill="#FFF" d="M54.88 49.128A22.887 22.887 0 0059 36c0-12.703-10.297-23-23-23S13 23.297 13 36s10.297 23 23 23c3.758 0 7.302-.907 10.435-2.505l4.814 2.052 5.728 2.443-1.084-6.132-1.012-5.73z"/>
+  <path fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2" d="M54.88 49.128A22.887 22.887 0 0059 36c0-12.703-10.297-23-23-23S13 23.297 13 36s10.297 23 23 23c3.758 0 7.302-.907 10.435-2.505l4.814 2.052 5.728 2.443-1.084-6.132-1.012-5.73z"/>
 </svg>

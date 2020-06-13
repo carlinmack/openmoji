@@ -1,11 +1,10 @@
-<svg id="emoji" viewBox="0 0 72 72" xmlns="http://www.w3.org/2000/svg">
-  <g id="color">
-    <path fill="#EA5A47" stroke="none" d="M38.4549,57.1464l22.2257-38.4961c1.0911-1.8898-0.2728-4.252-2.4549-4.252l-44.4514,0 c-2.1821,0-3.5459,2.3622-2.4549,4.252l22.2257,38.4961C34.6362,59.0362,37.3638,59.0362,38.4549,57.1464z"/>
-  </g>
-  <g id="hair"/>
-  <g id="skin"/>
-  <g id="skin-shadow"/>
-  <g id="line">
-    <path fill="none" stroke="#000000" stroke-miterlimit="10" stroke-width="2" d="M38.4549,57.1464l22.2257-38.4961 c1.0911-1.8898-0.2728-4.252-2.4549-4.252l-44.4514,0c-2.1821,0-3.5459,2.3622-2.4549,4.252l22.2257,38.4961 C34.6362,59.0362,37.3638,59.0362,38.4549,57.1464z"/>
-  </g>
+<svg viewBox="0 0 72 72" xmlns="http://www.w3.org/2000/svg">
+  <path fill="#b3b3b3" d="M68 4v64H4V4h64m4-4H0v72h72V0z"/>
+  <path fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.1" d="M12.923 10.958h46.154A1.923 1.923 0 0161 12.881v46.154a1.923 1.923 0 01-1.923 1.923H12.923A1.923 1.923 0 0111 59.035V12.881a1.923 1.923 0 011.923-1.923z"/>
+  <rect x="16" y="4" rx="2.254" width="40" height="64" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.1"/>
+  <rect x="16" y="4" rx="2.254" width="40" height="64" transform="rotate(90 36 36)" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.1"/>
+  <circle cx="36" cy="36" r="29" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.1"/>
+  <path fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="6" d="M38.455 57.146L60.68 18.65c1.09-1.89-.273-4.252-2.455-4.252H13.774c-2.182 0-3.546 2.363-2.455 4.252l22.226 38.496c1.091 1.89 3.819 1.89 4.91 0z"/>
+  <path fill="#EA5A47" d="M38.455 57.146L60.68 18.65c1.09-1.89-.273-4.252-2.455-4.252H13.774c-2.182 0-3.546 2.363-2.455 4.252l22.226 38.496c1.091 1.89 3.819 1.89 4.91 0z"/>
+  <path fill="none" stroke="#000" stroke-miterlimit="10" stroke-width="2" d="M38.455 57.146L60.68 18.65c1.09-1.89-.273-4.252-2.455-4.252H13.774c-2.182 0-3.546 2.363-2.455 4.252l22.226 38.496c1.091 1.89 3.819 1.89 4.91 0z"/>
 </svg>

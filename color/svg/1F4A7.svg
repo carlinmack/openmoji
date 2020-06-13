@@ -1,12 +1,11 @@
-<svg id="emoji" viewBox="0 0 72 72" xmlns="http://www.w3.org/2000/svg">
-  <g id="color">
-    <path fill="#92D3F5" stroke="none" d="M56.0001,46.7065c0,11.7749-8.9543,21.2965-20,21.2965s-20-9.5455-20-21.3204 c0,0-0.2191-14.3086,16.6559-40.1878c0,0,3.1666-5.3703,6.3541-0.3523C55.8851,32.0216,56.0001,46.7065,56.0001,46.7065"/>
-    <path fill="#61B2E4" stroke="none" d="M36,3.9991C48.875,14.375,55.875,44.8744,55.875,44.8744c0,15.0006-8.8293,23.1265-19.875,23.1265 C36,68.0009,58,49.8744,36,3.9991"/>
-  </g>
-  <g id="hair"/>
-  <g id="skin"/>
-  <g id="skin-shadow"/>
-  <g id="line">
-    <path fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2" d="M56.0001,46.7065c0,11.7749-8.9543,21.2965-20,21.2965s-20-9.5455-20-21.3204c0,0-0.2191-14.3086,16.6559-40.1878 c0,0,3.1666-5.3703,6.3541-0.3523C55.8851,32.0216,56.0001,46.7065,56.0001,46.7065"/>
-  </g>
+<svg viewBox="0 0 72 72" xmlns="http://www.w3.org/2000/svg">
+  <path fill="#b3b3b3" d="M68 4v64H4V4h64m4-4H0v72h72V0z"/>
+  <path fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.1" d="M12.923 10.958h46.154A1.923 1.923 0 0161 12.881v46.154a1.923 1.923 0 01-1.923 1.923H12.923A1.923 1.923 0 0111 59.035V12.881a1.923 1.923 0 011.923-1.923z"/>
+  <rect x="16" y="4" rx="2.254" width="40" height="64" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.1"/>
+  <rect x="16" y="4" rx="2.254" width="40" height="64" transform="rotate(90 36 36)" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.1"/>
+  <circle cx="36" cy="36" r="29" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.1"/>
+  <path fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="6" d="M56 46.706c0 11.775-8.954 21.297-20 21.297s-20-9.546-20-21.32c0 0-.219-14.309 16.656-40.188 0 0 3.167-5.37 6.354-.353C55.885 32.022 56 46.706 56 46.706"/>
+  <path fill="#92D3F5" d="M56 46.706c0 11.775-8.954 21.297-20 21.297s-20-9.546-20-21.32c0 0-.219-14.309 16.656-40.188 0 0 3.167-5.37 6.354-.353C55.885 32.022 56 46.706 56 46.706"/>
+  <path fill="#61B2E4" d="M36 4c12.875 10.375 19.875 40.874 19.875 40.874 0 15.001-8.83 23.127-19.875 23.127 0 0 22-18.127 0-64.002"/>
+  <path fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2" d="M56 46.706c0 11.775-8.954 21.297-20 21.297s-20-9.546-20-21.32c0 0-.219-14.309 16.656-40.188 0 0 3.167-5.37 6.354-.353C55.885 32.022 56 46.706 56 46.706"/>
 </svg>

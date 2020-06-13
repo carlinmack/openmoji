@@ -1,7 +1,15 @@
-<svg id="emoji" viewBox="0 0 72 72" xmlns="http://www.w3.org/2000/svg">
-  <g id="line">
-    <polyline fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" points="18.23 27.091 11.848 27.091 7.157 33.271 11.848 39.521 27.425 39.521 27.425 33.982"/>
-    <polyline fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" points="46.711 14.992 58.181 14.992 62.873 21.172 58.181 27.421 42.605 27.421 42.605 23.216"/>
-    <polyline fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" points="31.071 65.663 31.071 10.481 39.018 10.481 39.018 65.663"/>
+<svg viewBox="0 0 72 72" xmlns="http://www.w3.org/2000/svg">
+  <path fill="#b3b3b3" d="M68 4v64H4V4h64m4-4H0v72h72V0z"/>
+  <path fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.1" d="M12.923 10.958h46.154A1.923 1.923 0 0161 12.881v46.154a1.923 1.923 0 01-1.923 1.923H12.923A1.923 1.923 0 0111 59.035V12.881a1.923 1.923 0 011.923-1.923z"/>
+  <rect x="16" y="4" rx="2.254" ry="2.254" width="40" height="64" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.1"/>
+  <rect x="16" y="4" rx="2.254" ry="2.254" width="40" height="64" transform="rotate(90 36 36)" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.1"/>
+  <circle cx="36" cy="36" r="29" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.1"/>
+  <path fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="6" d="M18.23 27.091h-6.382l-4.691 6.18 4.691 6.25h15.577v-5.539m19.286-18.99h11.47l4.692 6.18-4.692 6.249H42.605v-4.205M31.071 65.663V10.481h7.947v55.182"/>
+  <path fill="#6a462f" d="M31.071 10.482h7.947v55.182h-7.947z"/>
+  <path fill="#a57939" d="M31.071 18.66v-8.179h7.947v6.077l-7.947 2.102zm11.534-3.668h15.576l4.692 6.18-4.692 6.249H42.605V14.992z"/>
+  <path fill="#6a462f" d="M27.425 27.091H11.848l-4.691 6.18 4.691 6.25h15.577v-12.43zm15.18-3.875l18.37-4.544 1.898 2.5-4.692 6.249H42.605v-4.205z"/>
+  <path fill="#a57939" d="M7.157 33.271l20.268-6.18H11.848l-4.691 6.18z"/>
+  <g fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2">
+    <path d="M18.23 27.091h-6.382l-4.691 6.18 4.691 6.25h15.577v-5.539m19.286-18.99h11.47l4.692 6.18-4.692 6.249H42.605v-4.205M31.071 65.663V10.481h7.947v55.182"/>
   </g>
 </svg>

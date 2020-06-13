@@ -1,10 +1,20 @@
-<svg id="emoji" viewBox="0 0 72 72" version="1.1" xmlns="http://www.w3.org/2000/svg">
-  <g id="line">
-    <path fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2" d="m22.8 29.6s-0.6792-0.3879-1.164-4.849h6.792s-0.2911 3.782-1.358 4.849"/>
-    <path fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2" d="m37.94 55.69h-3.881v-22.31l-17.47-0.09698v-3.685h38.81v3.685l-17.47 0.09698z"/>
-    <path fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2" d="m47.63 41.24 0.0099 14.45h-3.881v-18.33h19.41v-20.46h3.881v38.79h-3.881v-14.45z"/>
-    <path fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2" d="m23.39 20.19s0.5822-1.94 0-3.879"/>
-    <path fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2" d="m26.1 20.19s0.5822-1.746 0-3.394"/>
-    <path fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2" d="m28.24 37.36v18.33h-3.881v-14.45l-15.52-2e-6v14.37l-3.881 0.08v-38.79h3.881v20.46z"/>
+<svg viewBox="0 0 72 72" xmlns="http://www.w3.org/2000/svg">
+  <path fill="#B3B3B3" d="M68 4v64H4V4h64m4-4H0v72h72V0z"/>
+  <path fill="none" stroke="#00A5FF" stroke-miterlimit="10" stroke-width="0.1" d="M12.9 11h46.2c1.1 0 1.9.9 1.9 1.9h0V59c0 1.1-.9 1.9-1.9 1.9H12.9c-1 .1-1.9-.8-1.9-1.9h0V12.9c0-1.1.9-1.9 1.9-1.9h0z"/>
+  <path fill="none" stroke="#00A5FF" stroke-miterlimit="10" stroke-width="0.1" d="M18.3 4h35.5C55 4 56 5 56 6.3v59.5c0 1.2-1 2.3-2.3 2.3H18.3C17 68 16 67 16 65.7V6.3C16 5 17 4 18.3 4z"/>
+  <path fill="none" stroke="#00A5FF" stroke-miterlimit="10" stroke-width="0.1" d="M68 18.3v35.5c0 1.2-1 2.3-2.3 2.3H6.3C5 56 4 55 4 53.7V18.3C4 17 5 16 6.3 16h59.5c1.2 0 2.2 1 2.2 2.3z"/>
+  <circle cx="36" cy="36" r="29" fill="none" stroke="#00A5FF" stroke-miterlimit="10" stroke-width="0.1"/>
+  <g fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="6">
+    <path d="M22.8 29.6s-.68-.388-1.164-4.849h6.792s-.291 3.782-1.358 4.849"/>
+    <path d="M37.94 55.69h-3.881V33.38l-17.47-.097v-3.685h38.81v3.685l-17.47.097z"/>
+    <path d="M47.63 41.24l.01 14.45h-3.881V37.36h19.41V16.9h3.88v38.79h-3.88V41.24zM23.39 20.19s.582-1.94 0-3.879m2.71 3.879s.582-1.746 0-3.394m2.14 20.564v18.33h-3.881V41.24H8.839v14.37l-3.881.08V16.9h3.881v20.46z"/>
+  </g>
+  <path fill="#d0cfce" d="M22.81 29.6s-.678-.388-1.162-4.844h6.781s-.29 3.778-1.356 4.844"/>
+  <path fill="#a57939" d="M37.94 55.69h-3.875V33.41l-17.44-.097v-3.68h38.75v3.68l-17.44.097z"/>
+  <path fill="#a57939" d="M47.66 41.24l-.015 14.45h-3.881l.031-18.32h19.38V16.93h3.875v38.75h-3.875V41.25zm-38.798.01v14.43H4.987V16.93h3.875v20.44h19.38v18.31h-3.875V41.25z"/>
+  <g fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2">
+    <path d="M22.8 29.6s-.68-.388-1.164-4.849h6.792s-.291 3.782-1.358 4.849"/>
+    <path d="M37.94 55.69h-3.881V33.38l-17.47-.097v-3.685h38.81v3.685l-17.47.097z"/>
+    <path d="M47.63 41.24l.01 14.45h-3.881V37.36h19.41V16.9h3.88v38.79h-3.88V41.24zM23.39 20.19s.582-1.94 0-3.879m2.71 3.879s.582-1.746 0-3.394m2.14 20.564v18.33h-3.881V41.24H8.839v14.37l-3.881.08V16.9h3.881v20.46z"/>
   </g>
 </svg>

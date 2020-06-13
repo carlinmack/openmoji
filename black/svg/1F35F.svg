@@ -1,14 +1,12 @@
-<svg id="emoji" viewBox="0 0 72 72" xmlns="http://www.w3.org/2000/svg">
-  <g id="line">
-    <polyline fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2" points="42,10 42,5 38,5 38,9"/>
-    <polyline fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2" points="34,9 34,5 30,5 30,10"/>
-    <polyline fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2" points="50,12 50,7 46,7 46,10"/>
-    <polyline fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2" points="26,10 26,7 22,7 22,12"/>
-    <path fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2" d="M19,59.2637C29,67,42,67,53,59.2637L55,37l-19,3l-19-3L19,59.2637z"/>
-    <polyline fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2" points="54,33.4736 54,15.1055 50,15.1055 50,34.1045"/>
-    <polyline fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2" points="30,35.3682 30,13 26,13 26,34.7363"/>
-    <polyline fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2" points="22,34.1045 22,15.1055 18,15.1055 18,33.4736"/>
-    <polyline fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2" points="46,34.7363 46,13 42,13 42,35.3682"/>
-    <polyline fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2" points="38,36 38,12 34,12 34,36"/>
-  </g>
+<svg viewBox="0 0 72 72" xmlns="http://www.w3.org/2000/svg">
+  <path fill="#b3b3b3" d="M68 4v64H4V4h64m4-4H0v72h72V0z"/>
+  <path fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.1" d="M12.923 10.958h46.154A1.923 1.923 0 0161 12.881v46.154a1.923 1.923 0 01-1.923 1.923H12.923A1.923 1.923 0 0111 59.035V12.881a1.923 1.923 0 011.923-1.923z"/>
+  <rect x="16" y="4" rx="2.254" width="40" height="64" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.1"/>
+  <rect x="16" y="4" rx="2.254" width="40" height="64" transform="rotate(90 36 36)" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.1"/>
+  <circle cx="36" cy="36" r="29" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.1"/>
+  <path fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="6" d="M42 10V5h-4v4m-4 0V5h-4v5m20 2V7h-4v3m-20 0V7h-4v5m-3 47.264C29 67 42 67 53 59.264L55 37l-19 3-19-3 2 22.264zm35-25.79V15.106h-4v18.998m-20 1.264V13h-4v21.736m-4-.631v-19h-4v18.369m28 1.262V13h-4v22.368M38 36V12h-4v24"/>
+  <path fill="#fcea2b" d="M27 48.842V9.523h-1V7h-4v4.523h-1V48m22-2V9.523h-1V5h-4v3.577l-1-.054V47m-2-5V8.523l-1-.526V5h-4v4.523h-1V41m22-1V11.523h-1V7h-4v2.523h-1V40"/>
+  <path fill="#fcea2b" d="M23 41.42v-7.79h-1V15.106h-4V33.63h-1v3.475m30 7.42v-10h-1V13h-4v21.58l-1-.056v12.001m-2-1v-10h-1V12h-4v23.58l-1-.056v12.001m-2-1v-12l-1-.526V13h-4v21.524h-1v10M55 37v-4.371h-1V15.106h-4V33.63h-1v9"/>
+  <path fill="#ea5a47" d="M19 59.197c10 7.737 23 7.737 34 0L55 37l-19 3-19-3 2 22.197z"/>
+  <path fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2" d="M42 10V5h-4v4m-4 0V5h-4v5m20 2V7h-4v3m-20 0V7h-4v5m-3 47.264C29 67 42 67 53 59.264L55 37l-19 3-19-3 2 22.264zm35-25.79V15.106h-4v18.998m-20 1.264V13h-4v21.736m-4-.631v-19h-4v18.369m28 1.262V13h-4v22.368M38 36V12h-4v24"/>
 </svg>

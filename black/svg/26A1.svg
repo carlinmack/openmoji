@@ -1,5 +1,10 @@
-<svg id="emoji" viewBox="0 0 72 72" xmlns="http://www.w3.org/2000/svg">
-  <g id="line">
-    <path fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2" d="M48.1628,4.4406L16.3224,37.7817c-0.6174,0.6465-0.1168,1.6589,0.8201,1.6589h19.0829l-18.304,28.8333l37.7269-36.4785 c0.659-0.6372,0.1665-1.6882-0.791-1.6882H36.3846L48.1628,4.4406z"/>
-  </g>
+<svg viewBox="0 0 72 72" xmlns="http://www.w3.org/2000/svg">
+  <path fill="#b3b3b3" d="M68 4v64H4V4h64m4-4H0v72h72V0z"/>
+  <path fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.1" d="M12.923 10.958h46.154A1.923 1.923 0 0161 12.881v46.154a1.923 1.923 0 01-1.923 1.923H12.923A1.923 1.923 0 0111 59.035V12.881a1.923 1.923 0 011.923-1.923z"/>
+  <rect x="16" y="4" rx="2.254" width="40" height="64" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.1"/>
+  <rect x="16" y="4" rx="2.254" width="40" height="64" transform="rotate(90 36 36)" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.1"/>
+  <circle cx="36" cy="36" r="29" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.1"/>
+  <path fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="6" d="M48.163 4.44l-31.84 33.342c-.618.646-.117 1.659.82 1.659h19.082L17.921 68.274l37.727-36.479c.66-.637.167-1.688-.79-1.688H36.384L48.163 4.441z"/>
+  <path fill="#FCEA2B" d="M48.143 3.726L16.316 37.851c-.603.646-.114 1.659.801 1.659h19.107L19.15 67.048c-.166.268.215.537.443.312l36.063-35.704c.643-.638.162-1.689-.773-1.689h-18.5l11.76-26.24z"/>
+  <path fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2" d="M48.163 4.44l-31.84 33.342c-.618.646-.117 1.659.82 1.659h19.082L17.921 68.274l37.727-36.479c.66-.637.167-1.688-.79-1.688H36.384L48.163 4.441z"/>
 </svg>

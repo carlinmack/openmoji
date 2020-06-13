@@ -1,14 +1,23 @@
-<svg id="emoji" viewBox="0 0 72 72" xmlns="http://www.w3.org/2000/svg">
-  <g id="line-supplement">
-    <polyline points="33.2 33.2 48 24 38.8 38.8"/>
+<svg viewBox="0 0 72 72" xmlns="http://www.w3.org/2000/svg">
+  <path fill="#b3b3b3" d="M68 4v64H4V4h64m4-4H0v72h72z"/>
+  <path fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.1" d="M12.9 11h46.2a1.899 1.899 0 011.9 1.9h0V59a1.899 1.899 0 01-1.9 1.9H12.9A1.837 1.837 0 0111 59h0V12.9a1.899 1.899 0 011.9-1.9z"/>
+  <path fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.1" d="M18.3 4h35.5A2.243 2.243 0 0156 6.3v59.5a2.326 2.326 0 01-2.3 2.3H18.3a2.414 2.414 0 01-2.3-2.4V6.3A2.263 2.263 0 0118.3 4z"/>
+  <path fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.1" d="M68 18.3v35.5a2.326 2.326 0 01-2.3 2.3H6.3A2.414 2.414 0 014 53.7V18.3A2.263 2.263 0 016.3 16h59.5a2.243 2.243 0 012.2 2.3z"/>
+  <circle cx="36" cy="36" r="29" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.1"/>
+  <g fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="6">
+    <path d="M33.2 33.2L48 24l-9.2 14.8"/>
+    <circle cx="36" cy="36" r="24"/>
+    <path d="M33.2 33.2L24 48l14.8-9.2"/>
+    <path d="M33.2 33.2L48 24l-9.2 14.8M36 21v-5m0 40v-5m15-15h5m-40 0h5"/>
   </g>
-  <g id="line">
-    <circle cx="36" cy="36" r="24" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
-    <polyline fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" points="33.2 33.2 24 48 38.8 38.8"/>
-    <polyline fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" points="33.2 33.2 48 24 38.8 38.8"/>
-    <line x1="36" x2="36" y1="21" y2="16" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
-    <line x1="36" x2="36" y1="56" y2="51" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
-    <line x1="51" x2="56" y1="36" y2="36" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
-    <line x1="16" x2="21" y1="36" y2="36" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+  <path d="M33.2 33.2L48 24l-9.2 14.8"/>
+  <circle cx="36" cy="36" r="24" fill="#fcea2b"/>
+  <path fill="#f1b31c" d="M53 19a24.042 24.042 0 01-17 41 24.302 24.302 0 01-17-7"/>
+  <path fill="#fff" d="M33.2 33.2L24 48l14.8-9.2"/>
+  <path fill="#ea5a47" d="M33.2 33.2L48 24l-9.2 14.8"/>
+  <g fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2">
+    <circle cx="36" cy="36" r="24"/>
+    <path d="M33.2 33.2L24 48l14.8-9.2"/>
+    <path d="M33.2 33.2L48 24l-9.2 14.8M36 21v-5m0 40v-5m15-15h5m-40 0h5"/>
   </g>
 </svg>
